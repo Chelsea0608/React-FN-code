@@ -1,0 +1,43 @@
+.pic {
+    position: relative;
+    left: 33%;
+    display: block;
+    height: 200px;
+    width: 500px;
+    top:10px
+}
+.tab {
+    position: relative;
+   
+    left:470px;
+    border-color: red
+}
+.over {
+    position: relative;
+}
+.hr1 {
+    position: relative;
+   
+    left: -37%;
+  
+    color: red;
+}
+.tp {
+    text-align: center;
+}
+h2 {
+    color: #192f60;
+    font-weight: 600;
+}
+h3 {
+    color: #192f60;
+    font-weight: 400;
+}
+.carosel{
+    box-sizing: border-box;
+    height: 30%;
+    width: 30%;
+    position: relative;;
+    left: 500px;
+    top:20px
+}
